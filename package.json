@@ -1,5 +1,5 @@
 {
- "name": "ZenitsuBot",
+ "name": "LEON🖤",
  "description": "Multi Device Whatsapp Bot By Deepak",
  "version": "3.0.0",
  "main": "index.js",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "Deepak",
+ "author": "LEONGAMER",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.4.0",
@@ -103,10 +103,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/DGDEEPAK/ZenitsuBot.git"
+  "url": ""
  },
  "bugs": {
-  "url": "https://github.com/DGDEEPAK/ZenitsuBot/issues"
+  "url": ""
  },
- "homepage": "https://github.com/DGDEEPAK/ZenitsuBot#readme"
+ "homepage": ""
 }
